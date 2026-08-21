@@ -1,5 +1,0 @@
-// Top-level build file for HypeAI Android App
-// AGP 8.5.2 — version declared here, applied in :app
-plugins {
-    id 'com.android.application' version '8.5.2' apply false
-}
